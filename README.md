@@ -102,6 +102,7 @@ The app runs in a Dockerized environment including:
 - PostgreSQL
 - Kafka
 
+
 Start everything with:
 
 ```bash
